@@ -1,1 +1,5 @@
-#Heyyy guys its me
+---
+layout: page
+title: Blog
+---
+# Coming Soon...

@@ -2,4 +2,4 @@
 layout: default
 title: Blog
 ---
-# Coming Soon...
+# Coming Soon...I think

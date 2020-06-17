@@ -1,11 +1,11 @@
 
 <head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="styles.css">
+<meta charset="utf-8">
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Harsh Gandhi</h1>
-  <div class="grid-container">
+<h1>Harsh Gandhi</h1>
+<div class="grid-container">
   <div class="grid-item">1</div>
   <div class="grid-item">2</div>
   <div class="grid-item">3</div>
@@ -16,7 +16,7 @@
   <div class="grid-item">8</div>
   <div class="grid-item">9</div>
 </div>
-  <img src="flower.jpg" alt="Pie:)">
+<img src="flower.jpg" alt="Pie:)">
 </body>
 
 

@@ -16,7 +16,7 @@
   <div class="grid-item">8</div>
   <div class="grid-item">9</div>
 </div>
-<img src="flower.jpg" alt="Pie:)">
+<!--<img src="flower.jpg" alt="Pie:)">-->
 </body>
 
 

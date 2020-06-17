@@ -1,4 +1,3 @@
 .grid-container {
-  display: inline-grid;
-  background:black;
+  display:grid;
 }

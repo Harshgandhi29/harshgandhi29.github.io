@@ -1,14 +1,20 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" href="styles.css">
+<!--<link rel="stylesheet" href="styles.css">-->
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  }
+</style>
 </head>
 <body>
 <h1>Harsh Gandhi</h1>
 <div class="grid-container">
-  <div >1</div>
-  <div >2</div>
-  <div >3</div>
+  <div class="grid-item">1</div>
+  <div class="grid-item">2</div>
+  <div class="grid-item">3</div>
   <div class="grid-item">4</div>
   <div class="grid-item">5</div>
   <div class="grid-item">6</div>

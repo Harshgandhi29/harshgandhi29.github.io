@@ -5,7 +5,7 @@
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: 50% 50%;
   }
 </style>
 </head>

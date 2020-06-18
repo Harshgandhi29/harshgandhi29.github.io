@@ -7,11 +7,11 @@
   display: grid;
   grid-template-columns: 50% 50%;
   background: red;
-  margin-bottom: 10px;
+  margin: 20px;
   }
 .grid-item{
   background: rgb(192,192,192);
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 </style>
 </head>

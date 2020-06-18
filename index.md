@@ -10,7 +10,8 @@
   margin-bottom: 10px;
   }
 .grid-item{
-  background: rgb(192,192,192)
+  background: rgb(192,192,192);
+  margin-bottom: 10px;
 }
 </style>
 </head>

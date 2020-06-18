@@ -7,7 +7,7 @@
   display: grid;
   grid-template-columns: 50% 50%;
   background: red;
-  margin: 20px;
+  padding: 20px;
   }
 .grid-item{
   background: rgb(192,192,192);

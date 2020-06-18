@@ -12,6 +12,7 @@
 .grid-item{
   background: rgb(192,192,192);
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 </style>
 </head>

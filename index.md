@@ -8,6 +8,7 @@
   grid-template-columns: 50% 50%;
   }
 .grid-item{
+  background: red;
   padding: 20px;
 }
 </style>

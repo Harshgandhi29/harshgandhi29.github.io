@@ -10,7 +10,7 @@
   padding: 20px;
   }
 .grid-item{
-  /*background: rgb(192,192,192);*/
+  background: white;
   margin-bottom: 20px;
   margin-top: 20px;
   

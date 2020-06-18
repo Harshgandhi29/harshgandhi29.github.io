@@ -20,13 +20,13 @@
 <body>
 <h1>Harsh Gandhi</h1>
 <div class="grid-container">
-  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:500px;height:500px;"></div>
+  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;"></div>
   <div class="grid-item">2</div>
-  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:500px;height:500px;"></div>
+  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;"></div>
   <div class="grid-item">4</div>
-  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:500px;height:500px;"></div>
+  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;"></div>
   <div class="grid-item">6</div>
-  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:500px;height:500px;"></div>
+  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;"></div>
   <div class="grid-item">8</div>
 </div>
 </body>

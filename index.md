@@ -8,7 +8,7 @@
   grid-template-columns: 50% 50%;
   }
 .grid-item{
-  background: rgb(211,211,211);
+  background: rgb(192,192,192);
   padding: 20px;
 }
 </style>

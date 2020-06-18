@@ -6,12 +6,11 @@
 .grid-container {
   display: grid;
   grid-template-columns: 50% 50%;
-  padding-bottom: 10px;
   background: red;
+  margin bottom: 10px;
   }
 .grid-item{
   background: rgb(192,192,192);
-  margin: 10px;
 }
 </style>
 </head>

@@ -31,8 +31,8 @@ title: Projects
   </div>
 
    <div class="grid-item">
-      <a href="https://www.qries.com/"> 
-        <img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;">
+      <a href="https://github.com/Harshgandhi29/Mail-Bot"> 
+        <img src="Gmail-logo.png" alt="Pie:)" style="width:200px;height:200px;">
       </a>
    </div>
   </div>

@@ -1,13 +1,12 @@
 ---
 layout: page
-title: <u>Projects<u>
 ---
 
 <head>
+ <h1><u>Projects</u></h1>
 <meta charset="utf-8">
 <!--<link rel="stylesheet" href="styles.css">-->
 <style>
- 
 .grid-container {
   /*display: grid;
   grid-template-columns: 50% 50%;*/

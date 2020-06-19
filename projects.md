@@ -34,12 +34,30 @@ title: Projects
 
 It also has the option of reading the emails outloud, if the user is busy eg. driving and can translate the email into several languages. This interface allows for people with limited computer knowledge to read emails in different language and outloud.</div>
 
-  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;"></div>
+  <div class="grid-item">
+    <a href="https://www.qries.com/"> 
+      <img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;">
+    </a>
+  </div>
+  
   <div class="grid-item">4</div>
-  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;"></div>
+  
+  <div class="grid-item">
+    <a href="https://www.qries.com/"> 
+      <img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;">
+    </a>
+  </div>
+  
   <div class="grid-item">6</div>
-  <div class="grid-item"><img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;"></div>
+  
+  <div class="grid-item">
+    <a href="https://www.qries.com/"> 
+      <img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;">
+    </a>
+  </div>
+  
   <div class="grid-item">8</div>
+  
 </div>
 </body>
 

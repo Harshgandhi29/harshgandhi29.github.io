@@ -12,11 +12,11 @@ title: Projects
   }
 .grid-container {
   /*display: grid;
+  background: rgb(255, 255, 255);
   grid-template-columns: 50% 50%;*/
   padding: 20px;
   }
 .grid-item{
-  background: rgb(255, 255, 255);
   margin-bottom: 20px;
   margin-top: 20px;
   text-align: justify;

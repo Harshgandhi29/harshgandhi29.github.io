@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Projects
 ---
 
 <head>
- <h1><u>Projects</u></h1>
+title <h1><u>Projects</u></h1>
 <meta charset="utf-8">
 <!--<link rel="stylesheet" href="styles.css">-->
 <style>

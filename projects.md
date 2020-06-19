@@ -8,17 +8,14 @@ title: Projects
 <!--<link rel="stylesheet" href="styles.css">-->
 <style>
  body{
-    background: rgb(220,220,220);
+    background: rgb(255, 255, 255);
   }
 .grid-container {
   /*display: grid;
-  background: rgb(255, 255, 255);
   grid-template-columns: 50% 50%;*/
   padding: 20px;
   }
 .grid-item{
-  margin-bottom: 20px;
-  margin-top: 20px;
   text-align: justify;
   text-align-last: center;
 }

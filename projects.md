@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: <ins>Projects<ins>
 ---
 
 <head>

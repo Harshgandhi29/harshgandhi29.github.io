@@ -7,10 +7,12 @@ title: Projects
 <meta charset="utf-8">
 <!--<link rel="stylesheet" href="styles.css">-->
 <style>
+ body{
+    background: rgb(220,220,220);
+  }
 .grid-container {
   /*display: grid;
   grid-template-columns: 50% 50%;*/
-  background: rgb(220,220,220);
   padding: 20px;
   }
 .grid-item{

@@ -1,8 +1,7 @@
 ---
 layout: page
-title: <ins>Projects<ins>
 ---
-
+<ins>Projects<ins>
 <head>
 <meta charset="utf-8">
 <!--<link rel="stylesheet" href="styles.css">-->

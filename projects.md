@@ -17,7 +17,7 @@ title: Projects
   background: rgb(255, 255, 255);
   margin-bottom: 20px;
   margin-top: 20px;
-  
+  text-align-last: center;
 }
 </style>
 </head>

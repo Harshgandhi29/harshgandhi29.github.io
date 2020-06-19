@@ -32,7 +32,7 @@ title: Projects
 
    <div class="grid-item">
       <a href="https://github.com/Harshgandhi29/Mail-Bot"> 
-        <img src="Gmail-logo.png" alt="Pie:)" style="width:200px;height:200px;">
+        <img src="Gmail-logo.png" alt="Pie:)" style="width:400px;height:200px;">
       </a>
    </div>
   </div>

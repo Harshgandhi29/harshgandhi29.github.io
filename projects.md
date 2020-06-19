@@ -7,9 +7,10 @@ title: Projects
 <meta charset="utf-8">
 <!--<link rel="stylesheet" href="styles.css">-->
 <style>
- body{
-    background: rgb(255, 255, 255);
-  }
+h1{
+ text-align: center;
+ }
+ 
 .grid-container {
   /*display: grid;
   grid-template-columns: 50% 50%;*/

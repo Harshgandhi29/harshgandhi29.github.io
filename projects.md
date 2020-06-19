@@ -35,25 +35,6 @@ title: Projects
         <img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;">
       </a>
    </div>
-
-   <div class="grid-item">4</div>
-
-   <div class="grid-item">
-      <a href="https://www.qries.com/"> 
-        <img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;">
-      </a>
-   </div>
-
-   <div class="grid-item">6</div>
-
-   <div class="grid-item">
-      <a href="https://www.qries.com/"> 
-       <img src="flower.jpg" alt="Pie:)" style="width:200px;height:200px;">
-     </a>
-   </div>
-
-   <div class="grid-item">8</div>
-
   </div>
 </body>
 
